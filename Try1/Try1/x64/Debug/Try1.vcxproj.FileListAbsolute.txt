@@ -1,0 +1,4 @@
+C:\Users\ogure\OneDrive\Рабочий стол\Kursovaya\Try1\Try1\x64\Debug\Try1.vcxproj.AssemblyReference.cache
+C:\Users\ogure\OneDrive\Рабочий стол\Kursovaya\Try1\Try1\x64\Debug\Try1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ogure\OneDrive\Рабочий стол\Kursovaya\Try1\Try1\x64\Debug\Try1.MyForm.resources
+C:\Users\ogure\OneDrive\Рабочий стол\Kursovaya\Try1\Try1\x64\Debug\Try1.vcxproj.GenerateResource.cache
